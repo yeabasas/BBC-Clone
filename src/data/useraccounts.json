@@ -1,0 +1,23 @@
+{
+  "accounts": [
+    {
+      "username": "yeab_asas",
+      "email": "yeabasas@gmail.com",
+      "password": "mn",
+      "id": 1
+    },
+    {
+      "username": "yeab_asas",
+      "email": "yeabasas@gmail.com",
+      "password": "sc",
+      "id": 2
+    },
+    {
+      "username": "yeab_asas",
+      "userBirthDate": "2022-05-02",
+      "email": "yeabasas@gmail.com",
+      "password": "qwe",
+      "id": 5
+    }
+  ]
+}

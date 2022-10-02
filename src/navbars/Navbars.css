@@ -1,0 +1,13 @@
+.AdminNavbar{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: gray;
+    color: white;
+}
+
+.AdminNavbar a {
+    padding-left: 20px;
+    color: white;
+}
